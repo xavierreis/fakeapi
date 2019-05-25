@@ -8,7 +8,7 @@
     {"room":"ea1", "day":"02/01/2019", "hour":"00:01:00", "occupation": 99},
     {"room":"ea1", "day":"02/01/2019", "hour":"00:02:00", "occupation": 98},
     {"room":"ea1", "day":"02/01/2019", "hour":"00:03:00", "occupation": 97},
-    {"room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 96}
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 96},
     {"room":"ea2", "day":"01/01/2019", "hour":"00:00:00", "occupation": 6},
     {"room":"ea2", "day":"01/01/2019", "hour":"00:01:00", "occupation": 7},
     {"room":"ea2", "day":"01/01/2019", "hour":"00:02:00", "occupation": 8},

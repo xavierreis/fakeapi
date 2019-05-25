@@ -1,9 +1,22 @@
 {
   "rooms": [
-    { "id": "ea1", "occupation": 1},
-    { "id": "ea2", "occupation": 2},
-    { "id": "ea3", "occupation": 3},
-    { "id": "ea4", "occupation": 4}   
+    {"room":"ea1", "day":"01/01/2019", "hour":"00:00:00", "occupation": 1},
+    {"room":"ea1", "day":"01/01/2019", "hour":"00:01:00", "occupation": 2},
+    {"room":"ea1", "day":"01/01/2019", "hour":"00:02:00", "occupation": 3},
+    {"room":"ea1", "day":"01/01/2019", "hour":"00:03:00", "occupation": 4},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:00:00", "occupation": 5},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:01:00", "occupation": 99},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:02:00", "occupation": 98},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:03:00", "occupation": 97},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 96}
+    {"room":"ea2", "day":"01/01/2019", "hour":"00:00:00", "occupation": 6},
+    {"room":"ea2", "day":"01/01/2019", "hour":"00:01:00", "occupation": 7},
+    {"room":"ea2", "day":"01/01/2019", "hour":"00:02:00", "occupation": 8},
+    {"room":"ea2", "day":"01/01/2019", "hour":"00:03:00", "occupation": 9},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:01:00", "occupation": 95},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:02:00", "occupation": 94},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:03:00", "occupation": 93},
+    {"room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 92}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

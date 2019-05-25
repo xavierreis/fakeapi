@@ -17,5 +17,12 @@
     {"room":"ea1", "day":"02/01/2019", "hour":"00:02:00", "occupation": 94},
     {"room":"ea1", "day":"02/01/2019", "hour":"00:03:00", "occupation": 93},
     {"room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 92}
-  ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

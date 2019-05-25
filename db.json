@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": "ea1", "title": "Post 1" },
-    { "id": "ea2", "title": "Post 2" },
-    { "id": 5, "title": "Post 3" }
+  "rooms": [
+    { "id": "ea1", "occupation": 1},
+    { "id": "ea2", "occupation": 2},
+    { "id": "ea3", "occupation": 3},
+    { "id": "ea4", "occupation": 4}   
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

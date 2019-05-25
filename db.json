@@ -13,10 +13,10 @@
     {"id": 12, "room":"ea2", "day":"01/01/2019", "hour":"00:01:00", "occupation": 7},
     {"id": 13, "room":"ea2", "day":"01/01/2019", "hour":"00:02:00", "occupation": 8},
     {"id": 14, "room":"ea2", "day":"01/01/2019", "hour":"00:03:00", "occupation": 9},
-    {"id": 15, "room":"ea1", "day":"02/01/2019", "hour":"00:01:00", "occupation": 95},
-    {"id": 16, "room":"ea1", "day":"02/01/2019", "hour":"00:02:00", "occupation": 94},
-    {"id": 17, "room":"ea1", "day":"02/01/2019", "hour":"00:03:00", "occupation": 93},
-    {"id": 18, "room":"ea1", "day":"02/01/2019", "hour":"00:04:00", "occupation": 92}
+    {"id": 15, "room":"ea2", "day":"02/01/2019", "hour":"00:01:00", "occupation": 95},
+    {"id": 16, "room":"ea2", "day":"02/01/2019", "hour":"00:02:00", "occupation": 94},
+    {"id": 17, "room":"ea2", "day":"02/01/2019", "hour":"00:03:00", "occupation": 93},
+    {"id": 18, "room":"ea2", "day":"02/01/2019", "hour":"00:04:00", "occupation": 92}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
